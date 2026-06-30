@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.invader.co.kr/courses/784c290e-d474-4bcb-8b3e-f30c2ea4001a",
+  "capturedAt": "2026-05-16T08:49:07.177Z",
+  "detailImageCount": 5,
+  "files": [
+    {
+      "role": "thumbnail",
+      "file": "course-thumbnail.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-b818f132-b816-4fb2-ace2-5b1f5c141f6e-2026-05-13",
+      "size": 806013
+    },
+    {
+      "role": "detail",
+      "position": 1,
+      "file": "detail-01.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-64b72285-a1ef-4eba-802b-29812a9edcdc-2026-05-13",
+      "size": 1969655
+    },
+    {
+      "role": "detail",
+      "position": 2,
+      "file": "detail-02.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-6c44f814-fe29-4c03-acf2-2b204d8b4395-2026-05-13",
+      "size": 2261572
+    },
+    {
+      "role": "detail",
+      "position": 3,
+      "file": "detail-03.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-bcec4744-124e-448e-8c26-22603d02cc50-2026-05-13",
+      "size": 112935
+    },
+    {
+      "role": "detail",
+      "position": 4,
+      "file": "detail-04.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-9706c93b-293f-40d0-b3c7-b1635dfb830a-2026-05-13",
+      "size": 305582
+    },
+    {
+      "role": "detail",
+      "position": 5,
+      "file": "detail-05.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-554a4fb7-410c-4ca8-a068-ac8163c13817-2026-05-13",
+      "size": 4720814
+    }
+  ],
+  "zipFile": "invader-784c290e.zip"
+}

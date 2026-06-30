@@ -1,0 +1,18 @@
+{
+  "canvas_width": 860,
+  "section_height": 1200,
+  "font_style": "Pretendard-like Korean sans-serif",
+  "background_color": "#FFFFFF",
+  "primary_color": "#111111",
+  "secondary_color": "#666666",
+  "accent_color": "#2F6F5E",
+  "sub_accent_color": "#F4EFE7",
+  "layout_style": "clean Korean ecommerce detail page",
+  "image_style": "realistic product photography",
+  "spacing_rule": "wide margin, clear hierarchy",
+  "typography_rule": {
+    "headline": "large, bold, high readability",
+    "subheadline": "medium, clear, persuasive",
+    "body": "short, readable Korean copy"
+  }
+}

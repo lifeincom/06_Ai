@@ -1,0 +1,190 @@
+{
+  "sourceUrl": "https://richfriends.liveklass.com/classes/201803",
+  "capturedAt": "2026-05-16T09:33:34.680Z",
+  "detailImageCount": 25,
+  "files": [
+    {
+      "role": "thumbnail",
+      "file": "course-thumbnail.png",
+      "url": "https://cdn.liveklass.com/course/1716901226409.png.jpg.meta",
+      "size": 172830
+    },
+    {
+      "role": "detail",
+      "position": 1,
+      "file": "detail-01.png",
+      "url": "https://cdn.liveklass.com//1715054147191.png",
+      "size": 2706
+    },
+    {
+      "role": "detail",
+      "position": 2,
+      "file": "detail-02.png",
+      "url": "https://cdn.liveklass.com/_ipx/f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 329592
+    },
+    {
+      "role": "detail",
+      "position": 3,
+      "file": "detail-03.jpg",
+      "url": "https://s3.ap-northeast-2.amazonaws.com/com.liveschole/template/template_gradation1.jpg",
+      "size": 60336
+    },
+    {
+      "role": "detail",
+      "position": 4,
+      "file": "detail-04.png",
+      "url": "https://cdn.liveklass.com/assets/f/images/kakao.png",
+      "size": 80224
+    },
+    {
+      "role": "detail",
+      "position": 5,
+      "file": "detail-05.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_1&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 62
+    },
+    {
+      "role": "detail",
+      "position": 6,
+      "file": "detail-06.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_2&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 78
+    },
+    {
+      "role": "detail",
+      "position": 7,
+      "file": "detail-07.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_450&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 59886
+    },
+    {
+      "role": "detail",
+      "position": 8,
+      "file": "detail-08.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_600&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 91356
+    },
+    {
+      "role": "detail",
+      "position": 9,
+      "file": "detail-09.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_750&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 122834
+    },
+    {
+      "role": "detail",
+      "position": 10,
+      "file": "detail-10.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_900&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 154682
+    },
+    {
+      "role": "detail",
+      "position": 11,
+      "file": "detail-11.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_1200&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 217932
+    },
+    {
+      "role": "detail",
+      "position": 12,
+      "file": "detail-12.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_1500&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 282462
+    },
+    {
+      "role": "detail",
+      "position": 13,
+      "file": "detail-13.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_2400&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 329592
+    },
+    {
+      "role": "detail",
+      "position": 14,
+      "file": "detail-14.png",
+      "url": "https://cdn.liveklass.com/_ipx/w_300&f_webp&q_100/cdn.liveklass.com/course/1716901226409.png",
+      "size": 32412
+    },
+    {
+      "role": "detail",
+      "position": 15,
+      "file": "detail-15.jpg",
+      "url": "https://cdn.liveklass.com/_ipx/w_1&f_webp&q_100/cdn.liveklass.com/template/template_gradation1.jpg",
+      "size": 70
+    },
+    {
+      "role": "detail",
+      "position": 16,
+      "file": "detail-16.jpg",
+      "url": "https://cdn.liveklass.com/_ipx/w_2&f_webp&q_100/cdn.liveklass.com/template/template_gradation1.jpg",
+      "size": 96
+    },
+    {
+      "role": "detail",
+      "position": 17,
+      "file": "detail-17.jpg",
+      "url": "https://cdn.liveklass.com/_ipx/w_300&f_webp&q_100/cdn.liveklass.com/template/template_gradation1.jpg",
+      "size": 5606
+    },
+    {
+      "role": "detail",
+      "position": 18,
+      "file": "detail-18.jpg",
+      "url": "https://cdn.liveklass.com/_ipx/w_600&f_webp&q_100/cdn.liveklass.com/template/template_gradation1.jpg",
+      "size": 15640
+    },
+    {
+      "role": "detail",
+      "position": 19,
+      "file": "detail-19.png",
+      "url": "https://cdn.liveklass.com/course/1716901226409.png",
+      "size": 1846338
+    },
+    {
+      "role": "detail",
+      "position": 20,
+      "file": "detail-20.png",
+      "url": "https://cdn.liveklass.com/channel/1715017160821.png",
+      "size": 15447
+    },
+    {
+      "role": "detail",
+      "position": 21,
+      "file": "detail-21.png",
+      "url": "https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png",
+      "size": 235
+    },
+    {
+      "role": "detail",
+      "position": 22,
+      "file": "detail-22.gif",
+      "url": "https://connect.facebook.net/rsrc.php/v4/yd/r/Cou7n-nqK52.gif",
+      "size": 119
+    },
+    {
+      "role": "detail",
+      "position": 23,
+      "file": "detail-23.gif",
+      "url": "https://connect.facebook.net/rsrc.php/v4/ya/r/3rhSv5V8j3o.gif",
+      "size": 3140
+    },
+    {
+      "role": "detail",
+      "position": 24,
+      "file": "detail-24.gif",
+      "url": "https://connect.facebook.net/rsrc.php/v4/y9/r/jKEcVPZFk-2.gif",
+      "size": 1900
+    },
+    {
+      "role": "detail",
+      "position": 25,
+      "file": "detail-25.png",
+      "url": "https://connect.facebook.net/rsrc.php/v4/y2/r/onuUJj0tCqE.png",
+      "size": 3944
+    }
+  ],
+  "failedDownloads": [],
+  "zipFile": "richfriends-201803.zip"
+}

@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://millmus.com/lecture/premium/1",
+  "capturedAt": "2026-05-16T09:35:07.961Z",
+  "detailImageCount": 4,
+  "files": [
+    {
+      "role": "detail",
+      "position": 1,
+      "file": "detail-01.png",
+      "url": "https://millmus.com/og-image.png",
+      "size": 1698942
+    },
+    {
+      "role": "detail",
+      "position": 2,
+      "file": "detail-02.png",
+      "url": "https://single-fire.s3.ap-northeast-2.amazonaws.com/uploads/banner/7bc6b0e3-8d88-4f0a-b905-a655fd284961.png",
+      "size": 3333332
+    },
+    {
+      "role": "detail",
+      "position": 3,
+      "file": "detail-03.png",
+      "url": "https://single-fire.s3.ap-northeast-2.amazonaws.com/uploads/banner/b250903e-5ea3-41f4-b99a-1e044c6a37a0.png",
+      "size": 277254
+    },
+    {
+      "role": "detail",
+      "position": 4,
+      "file": "detail-04.png",
+      "url": "https://single-fire.s3.ap-northeast-2.amazonaws.com/uploads/banner/500c8643-c408-4db9-bfa8-24f2dd4f6acd.png",
+      "size": 759635
+    }
+  ],
+  "failedDownloads": [],
+  "zipFile": "millmus-premium-1.zip"
+}

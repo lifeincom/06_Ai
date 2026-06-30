@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.invader.co.kr/courses/6b4c9df0-4c78-4368-86db-97de7c0fdd1f",
+  "capturedAt": "2026-05-16T09:30:02.514Z",
+  "detailImageCount": 8,
+  "files": [
+    {
+      "role": "thumbnail",
+      "file": "course-thumbnail.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-58816b50-4aa2-4564-8661-ea21502a1181-2026-05-11",
+      "size": 1023852
+    },
+    {
+      "role": "detail",
+      "position": 1,
+      "file": "detail-01.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-8844c34b-06db-44f1-b098-6da1d5ccc152-2026-05-11",
+      "size": 1306765
+    },
+    {
+      "role": "detail",
+      "position": 2,
+      "file": "detail-02.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-a0b15b39-46d2-424d-9012-698e68edf4f3-2026-05-15",
+      "size": 410413
+    },
+    {
+      "role": "detail",
+      "position": 3,
+      "file": "detail-03.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-984e9c2f-9f32-4223-b5f6-501d310e88a1-2026-05-11",
+      "size": 138790
+    },
+    {
+      "role": "detail",
+      "position": 4,
+      "file": "detail-04.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-8446a048-c973-4da0-8ed2-eba81cbdb083-2026-05-11",
+      "size": 375022
+    },
+    {
+      "role": "detail",
+      "position": 5,
+      "file": "detail-05.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-25ffffde-4600-4595-859c-6006ae168638-2026-05-11",
+      "size": 3573237
+    },
+    {
+      "role": "detail",
+      "position": 6,
+      "file": "detail-06.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-3655ea23-264e-41d1-9bf6-013686ee8180-2026-05-11",
+      "size": 2966881
+    },
+    {
+      "role": "detail",
+      "position": 7,
+      "file": "detail-07.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-fa76dfcf-15cf-4a6c-9926-97160e602932-2026-05-11",
+      "size": 3568666
+    },
+    {
+      "role": "detail",
+      "position": 8,
+      "file": "detail-08.png",
+      "url": "https://eipidkmfleirgetcwstu.supabase.co/storage/v1/object/public/images/image-1a773220-973e-406c-8df3-7ef4a75d4a9f-2026-05-11",
+      "size": 2869507
+    }
+  ],
+  "zipFile": "invader-6b4c9df0.zip"
+}

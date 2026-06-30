@@ -1,0 +1,23 @@
+{
+  "sourceUrl": "https://millmus.com/lecture/detail/33",
+  "capturedAt": "2026-05-16T09:35:07.523Z",
+  "detailImageCount": 2,
+  "files": [
+    {
+      "role": "detail",
+      "position": 1,
+      "file": "detail-01.png",
+      "url": "https://single-fire.s3.ap-northeast-2.amazonaws.com/uploads/lecture/[5기 오픈] - 월 1억 퀀텀점프 프리미엄 오프스터디/f0cc686a-49f8-4327-8d1b-675d91d166f8.png",
+      "size": 1338902
+    },
+    {
+      "role": "detail",
+      "position": 2,
+      "file": "detail-02.png",
+      "url": "https://millmus.com/og-image.png",
+      "size": 1698942
+    }
+  ],
+  "failedDownloads": [],
+  "zipFile": "millmus-detail-33.zip"
+}

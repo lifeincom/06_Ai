@@ -1,0 +1,218 @@
+{
+  "createdAtKst": "2026-05-16",
+  "title": "대표 강의 상세페이지 레퍼런스 확장 아카이브",
+  "scope": "사용자가 지정한 9개 사이트의 대표 강의 상세페이지 후보 수집 및 분석",
+  "sourceCount": 14,
+  "totalDetailImages": 115,
+  "totalFiles": 124,
+  "sources": [
+    {
+      "id": "cojooboo-free-7750aa4d",
+      "site": "Cojooboo",
+      "title": "농산물 위탁판매로 온라인 월세 벌기",
+      "type": "무료강의 신청형",
+      "note": "무료 라이브 신청과 리드 확보를 위한 2장 압축형 구조",
+      "sourceUrl": "https://www.cojooboo.co.kr/free-courses/7750aa4d-66b0-40f2-8a9d-e13135be1eb3",
+      "detailImageCount": 2,
+      "fileCount": 3,
+      "manifest": "sources/cojooboo-free-7750aa4d/manifest.json",
+      "index": "sources/cojooboo-free-7750aa4d/index.html",
+      "contactSheet": "sources/cojooboo-free-7750aa4d/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "cojooboo-paid-ed6f453f",
+      "site": "Cojooboo",
+      "title": "통장 건강 챙기는 리스크 제로 AI 건기식",
+      "type": "유료 고가 강의형",
+      "note": "일정, 커리큘럼, 혜택, 가격 방어, 증거를 길게 쌓는 결제 전환 구조",
+      "sourceUrl": "https://www.cojooboo.co.kr/courses/ed6f453f-be75-4f80-950d-e70ccf403ab1",
+      "detailImageCount": 11,
+      "fileCount": 12,
+      "manifest": "sources/cojooboo-paid-ed6f453f/manifest.json",
+      "index": "sources/cojooboo-paid-ed6f453f/index.html",
+      "contactSheet": "sources/cojooboo-paid-ed6f453f/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "fitchnic-2ec1795b",
+      "site": "Fitchnic",
+      "title": "매달 300 자동 연금 시스템 무료강의",
+      "type": "무료강의 신청형",
+      "note": "headless 차단이 있어 브라우저 UA로 제한 수집. 썸네일/대표 이미지 중심",
+      "sourceUrl": "https://fitchnic.com/courses/2ec1795b-c07f-4c7a-9379-64b2fc5c336c",
+      "detailImageCount": 1,
+      "fileCount": 1,
+      "manifest": "sources/fitchnic-2ec1795b/manifest.json",
+      "index": "sources/fitchnic-2ec1795b/index.html",
+      "contactSheet": "sources/fitchnic-2ec1795b/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "invader-64ceff0c",
+      "site": "Invader",
+      "title": "생필품 판매로 월 순익 2,000만원",
+      "type": "유료 고가 강의형",
+      "note": "친숙한 생필품 시장을 월수익/위탁판매/혜택으로 묶는 구조",
+      "sourceUrl": "https://www.invader.co.kr/courses/64ceff0c-c91d-44b7-8589-875bd6e56860",
+      "detailImageCount": 7,
+      "fileCount": 8,
+      "manifest": "sources/invader-64ceff0c/manifest.json",
+      "index": "sources/invader-64ceff0c/index.html",
+      "contactSheet": "sources/invader-64ceff0c/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "invader-6b4c9df0",
+      "site": "Invader",
+      "title": "크록스 판매로 월 5000 구조",
+      "type": "시즌성 상품 고가 강의형",
+      "note": "계절성, 단일 상품, 큰 수익 약속으로 즉시성을 강하게 만드는 구조",
+      "sourceUrl": "https://www.invader.co.kr/courses/6b4c9df0-4c78-4368-86db-97de7c0fdd1f",
+      "detailImageCount": 8,
+      "fileCount": 9,
+      "manifest": "sources/invader-6b4c9df0/manifest.json",
+      "index": "sources/invader-6b4c9df0/index.html",
+      "contactSheet": "sources/invader-6b4c9df0/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "invader-784c290e",
+      "site": "Invader",
+      "title": "K-뷰티 내 화장품 브랜드 클래스",
+      "type": "유료 고가 강의형",
+      "note": "K-뷰티와 내 브랜드 욕망을 해외 수요, 브랜드 창업으로 포장",
+      "sourceUrl": "https://www.invader.co.kr/courses/784c290e-d474-4bcb-8b3e-f30c2ea4001a",
+      "detailImageCount": 5,
+      "fileCount": 6,
+      "manifest": "sources/invader-784c290e/manifest.json",
+      "index": "sources/invader-784c290e/index.html",
+      "contactSheet": "sources/invader-784c290e/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "millmus-detail-33",
+      "site": "Millmus",
+      "title": "포리얼·아로스·페코",
+      "type": "전문가 묶음 강의형",
+      "note": "여러 튜터/브랜드 신뢰를 묶어 보여주는 강의 상세 구조",
+      "sourceUrl": "https://millmus.com/lecture/detail/33",
+      "detailImageCount": 2,
+      "fileCount": 2,
+      "manifest": "sources/millmus-detail-33/manifest.json",
+      "index": "sources/millmus-detail-33/index.html",
+      "contactSheet": "sources/millmus-detail-33/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "millmus-premium-1",
+      "site": "Millmus",
+      "title": "프리미엄 스터디 클래스",
+      "type": "프리미엄 멤버십/스터디형",
+      "note": "멤버십/스터디/프리미엄 포지셔닝을 전면에 두는 구조",
+      "sourceUrl": "https://millmus.com/lecture/premium/1",
+      "detailImageCount": 4,
+      "fileCount": 4,
+      "manifest": "sources/millmus-premium-1/manifest.json",
+      "index": "sources/millmus-premium-1/index.html",
+      "contactSheet": "sources/millmus-premium-1/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "nlab-course-e972ff47",
+      "site": "NLAB",
+      "title": "로켓그로스 완벽가이드",
+      "type": "유료 강의형",
+      "note": "재결제형 강의로 보이며 상세 이미지는 짧게 구성됨",
+      "sourceUrl": "https://www.nlab.kr/courses/e972ff47-561f-4168-9fc9-403fd213b713",
+      "detailImageCount": 2,
+      "fileCount": 2,
+      "manifest": "sources/nlab-course-e972ff47/manifest.json",
+      "index": "sources/nlab-course-e972ff47/index.html",
+      "contactSheet": "sources/nlab-course-e972ff47/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "nlab-free-bc0e166f",
+      "site": "NLAB",
+      "title": "쿠팡 건강식품 월 2억 노하우",
+      "type": "무료강의 신청형",
+      "note": "쿠팡/건강식품/매출 사례를 한 장 중심으로 압축한 리드 확보형",
+      "sourceUrl": "https://www.nlab.kr/free-courses/bc0e166f-60e1-4fab-804e-d69d5fe108a0",
+      "detailImageCount": 1,
+      "fileCount": 2,
+      "manifest": "sources/nlab-free-bc0e166f/manifest.json",
+      "index": "sources/nlab-free-bc0e166f/index.html",
+      "contactSheet": "sources/nlab-free-bc0e166f/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "nlab-free-f9a50d60",
+      "site": "NLAB",
+      "title": "초간단 AI 플레이리스트 월 100만원 프로젝트",
+      "type": "무료강의/사이드잡 신청형",
+      "note": "AI, 하루 20분, 월 100만원처럼 낮은 진입장벽과 작은 결과를 결합",
+      "sourceUrl": "https://www.nlab.kr/free-courses/f9a50d60-c557-45ad-9aa4-beb3b12cc5b9",
+      "detailImageCount": 7,
+      "fileCount": 8,
+      "manifest": "sources/nlab-free-f9a50d60/manifest.json",
+      "index": "sources/nlab-free-f9a50d60/index.html",
+      "contactSheet": "sources/nlab-free-f9a50d60/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "richfriends-201803",
+      "site": "Richfriends Liveklass",
+      "title": "소액 투자의 종말",
+      "type": "부동산/투자 VOD 클래스",
+      "note": "부동산 리스크/제도 변화 공포를 앞세운 콘텐츠형 상세페이지",
+      "sourceUrl": "https://richfriends.liveklass.com/classes/201803",
+      "detailImageCount": 25,
+      "fileCount": 26,
+      "manifest": "sources/richfriends-201803/manifest.json",
+      "index": "sources/richfriends-201803/index.html",
+      "contactSheet": "sources/richfriends-201803/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "richfriends-212528",
+      "site": "Richfriends Liveklass",
+      "title": "법무사 비용 비교 계산기",
+      "type": "무료/도구형 클래스",
+      "note": "Liveklass 모듈형 상세페이지. 커리큘럼/평점/추천 클래스 UI까지 같이 수집됨",
+      "sourceUrl": "https://richfriends.liveklass.com/classes/212528",
+      "detailImageCount": 39,
+      "fileCount": 40,
+      "manifest": "sources/richfriends-212528/manifest.json",
+      "index": "sources/richfriends-212528/index.html",
+      "contactSheet": "sources/richfriends-212528/analysis/contact-sheet.jpg"
+    },
+    {
+      "id": "titanclass-176064",
+      "site": "Titanclass",
+      "title": "타이탄클래스 VOD 강의 후보",
+      "type": "VOD 강의형",
+      "note": "사이트맵 접근 제한이 있어 검색 노출 상세 URL에서 썸네일 중심으로 제한 수집",
+      "sourceUrl": "https://www.titanclass.co.kr/course/course_view.jsp?cid=115702&id=176064",
+      "detailImageCount": 1,
+      "fileCount": 1,
+      "manifest": "sources/titanclass-176064/manifest.json",
+      "index": "sources/titanclass-176064/index.html",
+      "contactSheet": "sources/titanclass-176064/analysis/contact-sheet.jpg"
+    }
+  ],
+  "failures": [
+    {
+      "site": "Buchinclass",
+      "url": "https://www.buchinclass.com/",
+      "status": "제한 수집",
+      "reason": "홈/사이트맵/검색 후보 상세 경로가 Next 404로 응답. 직접 상세 URL을 찾지 못함."
+    },
+    {
+      "site": "Buchin Fifteenh",
+      "url": "https://buchin.fifteenh.io/",
+      "status": "수집 실패",
+      "reason": "홈과 sitemap.xml이 404 페이지로 응답하고 상세 강의 링크가 노출되지 않음."
+    },
+    {
+      "site": "Titanclass",
+      "url": "https://www.titanclass.co.kr/sitemap.xml",
+      "status": "부분 수집",
+      "reason": "sitemap은 보안/제한 페이지로 응답. 검색 노출 상세 URL 1개만 제한 수집."
+    },
+    {
+      "site": "Fitchnic",
+      "url": "https://www.fitchnic.com/courses/9c122804-3c6a-4928-bcd1-f676d40115c6",
+      "status": "일부 후보 실패",
+      "reason": "후보 상세 URL 중 일부는 렌더링 DOM에서 상세 이미지 URL을 찾지 못함."
+    }
+  ]
+}

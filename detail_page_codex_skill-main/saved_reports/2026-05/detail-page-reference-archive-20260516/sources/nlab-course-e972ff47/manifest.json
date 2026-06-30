@@ -1,0 +1,22 @@
+{
+  "sourceUrl": "https://www.nlab.kr/courses/e972ff47-561f-4168-9fc9-403fd213b713",
+  "capturedAt": "2026-05-16T09:30:00.813Z",
+  "detailImageCount": 2,
+  "files": [
+    {
+      "role": "detail",
+      "position": 1,
+      "file": "detail-01.png",
+      "url": "https://www.nlab.kr/opengraph-image.png?8ba0d9121af671ec",
+      "size": 14912
+    },
+    {
+      "role": "detail",
+      "position": 2,
+      "file": "detail-02.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-dc7574d8-14f8-4dc3-ab04-22077a386946-2025-05-28",
+      "size": 427556
+    }
+  ],
+  "zipFile": "nlab-course-e972ff47.zip"
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nlab.kr/free-courses/f9a50d60-c557-45ad-9aa4-beb3b12cc5b9",
+  "capturedAt": "2026-05-16T09:26:55.325Z",
+  "detailImageCount": 7,
+  "files": [
+    {
+      "role": "thumbnail",
+      "file": "course-thumbnail.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-e3836b9e-4393-4dc8-a090-3ca068f52e91-2026-05-08",
+      "size": 896065
+    },
+    {
+      "role": "detail",
+      "position": 1,
+      "file": "detail-01.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-e4880e7b-65c1-44e0-8f68-10fcc256ed60-2026-05-08",
+      "size": 798203
+    },
+    {
+      "role": "detail",
+      "position": 2,
+      "file": "detail-02.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-8afdad48-f254-4297-add5-bf8fb4652951-2026-05-08",
+      "size": 4641450
+    },
+    {
+      "role": "detail",
+      "position": 3,
+      "file": "detail-03.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-015d8f45-d814-4387-8194-f1083dbd1074-2026-05-08",
+      "size": 7655653
+    },
+    {
+      "role": "detail",
+      "position": 4,
+      "file": "detail-04.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-cff584ea-6f00-4599-9436-af516b2c02a1-2026-05-08",
+      "size": 5824317
+    },
+    {
+      "role": "detail",
+      "position": 5,
+      "file": "detail-05.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-7473ecf6-0056-4e0d-ba95-f41e78f3b7ea-2026-05-08",
+      "size": 4677388
+    },
+    {
+      "role": "detail",
+      "position": 6,
+      "file": "detail-06.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-b41648c8-3f93-4053-a857-ed30e60d4f34-2026-05-08",
+      "size": 4900852
+    },
+    {
+      "role": "detail",
+      "position": 7,
+      "file": "detail-07.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-566fdbd0-56d2-4670-b149-61e7648ebcf3-2026-05-08",
+      "size": 892075
+    }
+  ],
+  "zipFile": "nlab-free-f9a50d60.zip"
+}

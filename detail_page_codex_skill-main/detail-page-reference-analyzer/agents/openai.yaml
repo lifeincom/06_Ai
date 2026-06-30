@@ -1,0 +1,7 @@
+interface:
+  display_name: "Detail Page Reference Analyzer"
+  short_description: "프라이빗 상세페이지 참고 수집과 역기획"
+  default_prompt: "Use $detail-page-reference-analyzer as a private detail-page reference analyzer and production skill. If I say 제작 or 만들어줘, plan the Korean mobile detail page and produce the actual image cuts, gallery, and zip."
+
+policy:
+  allow_implicit_invocation: true

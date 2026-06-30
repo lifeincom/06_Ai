@@ -1,0 +1,21 @@
+{
+  "sourceUrl": "https://www.nlab.kr/free-courses/bc0e166f-60e1-4fab-804e-d69d5fe108a0",
+  "capturedAt": "2026-05-16T09:26:49.741Z",
+  "detailImageCount": 1,
+  "files": [
+    {
+      "role": "thumbnail",
+      "file": "course-thumbnail.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-a0fbe9e0-06b2-4a28-953d-6cda458635c9-2026-04-29",
+      "size": 709310
+    },
+    {
+      "role": "detail",
+      "position": 1,
+      "file": "detail-01.png",
+      "url": "https://swsgppjaigbmxetrmygu.supabase.co/storage/v1/object/public/images/image-781fb993-9bbb-4b4e-8897-d5d720c9faed-2026-04-29",
+      "size": 9702572
+    }
+  ],
+  "zipFile": "nlab-free-bc0e166f.zip"
+}
