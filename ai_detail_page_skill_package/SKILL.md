@@ -17,7 +17,7 @@ AI Detail Page Production Skill
 5. 섹션별 이미지 생성 프롬프트 작성
 6. 섹션별 JSON 관리
 7. 수정 요청 반영
-8. 최종 상세페이지 초안 및 Figma/Canva 전송 구조 작성
+8. 최종 상세페이지 초안
 
 ## 핵심 원칙
 
