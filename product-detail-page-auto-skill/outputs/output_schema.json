@@ -1,0 +1,60 @@
+{
+  "product_info": {
+    "product_name": "",
+    "brand_name": "",
+    "category": "",
+    "target_customer": "",
+    "key_benefits": [],
+    "features": [],
+    "trust_elements": [],
+    "mood": ""
+  },
+  "page_settings": {
+    "width": 860,
+    "min_section_height": 1200,
+    "section_count": 8,
+    "output_type": "section_images_zip"
+  },
+  "sections": [
+    {
+      "id": "01",
+      "name": "HERO",
+      "filename": "01_hero.png"
+    },
+    {
+      "id": "02",
+      "name": "PROBLEM",
+      "filename": "02_problem.png"
+    },
+    {
+      "id": "03",
+      "name": "BENEFIT",
+      "filename": "03_benefit.png"
+    },
+    {
+      "id": "04",
+      "name": "USE CASE",
+      "filename": "04_use_case.png"
+    },
+    {
+      "id": "05",
+      "name": "DETAIL",
+      "filename": "05_detail.png"
+    },
+    {
+      "id": "06",
+      "name": "COMPARISON",
+      "filename": "06_comparison.png"
+    },
+    {
+      "id": "07",
+      "name": "SPEC",
+      "filename": "07_spec.png"
+    },
+    {
+      "id": "08",
+      "name": "NOTICE / CTA",
+      "filename": "08_notice_cta.png"
+    }
+  ]
+}
