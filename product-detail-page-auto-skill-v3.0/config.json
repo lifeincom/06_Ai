@@ -1,0 +1,14 @@
+{
+  "name": "product-detail-page-auto-skill",
+  "version": "3.0.0",
+  "language": "ko-KR",
+  "default_canvas_width_px": 860,
+  "target_total_height_px": 12000,
+  "section_export_min_height_px": 1200,
+  "figma": {"preferred_team_name": "5changhoon", "plan_key_hint": "team::1492358527623749110", "verify_plan_each_run": true, "font_preference": ["Pretendard", "Noto Sans KR", "Inter"], "verify_nodes_after_write": true},
+  "reference_count": {"min": 3, "max": 6, "target_distinct_channels": 2},
+  "copy_candidate_count": {"min": 3, "max": 5},
+  "images": {"prefer_actual_product": true, "do_not_invent_product_visuals": true, "allow_placeholders": true},
+  "approval": {"skip_intermediate_when_authorized": true, "confirm_ambiguous_team": true, "confirm_identity_critical_missing_data": true},
+  "outputs": ["product.json", "references.json", "research.json", "layout.json", "figma_result.json", "qa_report.json"]
+}
