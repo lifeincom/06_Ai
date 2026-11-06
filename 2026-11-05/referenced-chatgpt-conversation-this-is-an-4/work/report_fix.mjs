@@ -1,0 +1,15 @@
+import fs from 'node:fs/promises';
+import {createRequire} from 'node:module';
+const require=createRequire('C:/Users/hoon5/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/package.json');
+const {FileBlob,SpreadsheetFile}=require('@oai/artifact-tool');
+const file='outputs/상품별_변환결과/누락_중복_처리결과.xlsx';
+const w=await SpreadsheetFile.importXlsx(await FileBlob.load(file));
+w.worksheets.getItem('처리결과').getRange('A6').values=[['누락 상품 수']];
+for(const [n,r] of [['처리결과','A14:H14'],['누락상세','A2:E2'],['항목대응','A2:C2']])w.worksheets.getItem(n).getRange(r).format.horizontalAlignment='center';
+w.recalculate();
+const p=await w.render({sheetName:'처리결과',range:'A1:H20',scale:1});
+await fs.writeFile('work/처리결과_최종.png',new Uint8Array(await p.arrayBuffer()));
+await (await SpreadsheetFile.exportXlsx(w)).save(file);
+const product=await SpreadsheetFile.importXlsx(await FileBlob.load('outputs/상품별_변환결과/개별파일/2_오육포.xlsx'));
+const q=await product.render({sheetName:'Sheet1',range:'A1:B15',scale:1});
+await fs.writeFile('work/final_product.png',new Uint8Array(await q.arrayBuffer()));
