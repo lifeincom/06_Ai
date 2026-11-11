@@ -176,14 +176,14 @@
 생성 이미지 파일명은 아래 형식을 사용합니다.
 
 ```txt
-01_hero.png
-02_problem.png
-03_benefit.png
-04_use_case.png
-05_detail.png
-06_comparison.png
-07_spec.png
-08_notice_cta.png
+sec_01.jpg
+sec_02.jpg
+sec_03.jpg
+sec_04.jpg
+sec_05.jpg
+sec_06.jpg
+sec_07.jpg
+sec_08.jpg
 ```
 
 최종 ZIP 파일명은 아래 형식을 사용합니다.
